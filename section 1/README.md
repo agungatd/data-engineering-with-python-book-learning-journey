@@ -32,3 +32,6 @@ engineers. I now have two working databases – Elasticsearch and PostgreSQL –
 ## Chapter 5, Cleaning and Transforming Data
 
 ## Chapter 6, Building a 311 Data Pipeline
+
+## Chapter 7 - 11, Continue to Section 2
+[Section 2](https://www.example.com)
