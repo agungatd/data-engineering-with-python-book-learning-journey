@@ -34,4 +34,6 @@ engineers. I now have two working databases – Elasticsearch and PostgreSQL –
 ## Chapter 6, Building a 311 Data Pipeline
 
 ## Chapter 7 - 11, Continue to Section 2
-[Section 2](https://www.example.com)
+[Section 2 Relative Path](data-engineering-with-python-book-learning-journey/blob/main/section%202/README.md)
+
+[Section 2](https://github.com/agungatd/data-engineering-with-python-book-learning-journey/blob/main/section%202/README.md)
