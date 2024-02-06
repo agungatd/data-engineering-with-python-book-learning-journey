@@ -25,6 +25,7 @@ engineers. I now have two working databases – Elasticsearch and PostgreSQL –
   Elasticsearch is a search engine. In this book, it will be used as a NoSQL database. also using Kibana as its GUI.
 * **PostgreSQL:** <br>
   PostgreSQL is an open source relational database. It compares to Oracle or Microsoft SQL Server. In this book, it will be the relational database of choice.
+  
 ## Chapter 3, Reading and Writing Files
 
 ## Chapter 4, Working with Databases
